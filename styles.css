@@ -1,0 +1,15 @@
+table {
+  text-align: center;
+  font-size: 30px;
+}
+
+td {
+    width: 75px;
+    height: 75px;
+    border: solid 1px black;
+}
+
+td:hover {
+    background-color: #e8e8e8;
+    cursor:pointer;
+}
